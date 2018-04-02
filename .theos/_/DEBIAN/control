@@ -1,0 +1,9 @@
+Package: com.yourcompany.respringapp
+Name: RespringApp
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: 최동호
+Author: 최동호
+Section: Utilities
+Version: 0.0.1-4+debug
+Installed-Size: 144
